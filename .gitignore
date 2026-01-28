@@ -1,2 +1,5 @@
 ML/8/mnist_train.csv
 ML/8/mnist_test.csv
+ML/8_MNIST/mnist_train.csv
+ML/8_MNIST/MNIST_Classification.ipynb
+ML/8/mnist_test.csv
